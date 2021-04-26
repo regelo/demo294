@@ -8,4 +8,5 @@ int main() {
     }
     double autre_variable = 5.4;
     std::cout << autre_variable << std::endl;
+    float valeur = 4.5;
 }
