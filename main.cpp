@@ -2,11 +2,11 @@
 
 int main() {
     std::cout << "Salut le monde !" << std::endl;
-    int variable = 50;
+    int variable = 200;
     for(int i=0 ; i<variable ; i++) {
         std::cout << i*i*i << std::endl;
     }
     double autre_variable = 5.4;
     std::cout << autre_variable << std::endl;
-    float valeur = 4.5;
+    float valeur = 6.5;
 }
